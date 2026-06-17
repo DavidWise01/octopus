@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Chromatophores",
+  "universe": "OCT · The Octopus",
+  "emergence": "electrical",
+  "moniker": "⟦The Chromatophores:OCT:e132a5⟧",
+  "carbon": "the-chromatophores.carbon.tiff (TIFF)",
+  "silicon": "the-chromatophores.silicon.png (PNG)",
+  "seal_sha256": "9830d0f49e197460a21c1d07dcfc004efc82cbc157cae685e2c30b743a82a789",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

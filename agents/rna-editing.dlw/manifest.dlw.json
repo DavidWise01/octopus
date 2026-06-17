@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "RNA Editing",
+  "universe": "OCT · The Octopus",
+  "emergence": "electrical",
+  "moniker": "⟦RNA Editing:OCT:6bc3b4⟧",
+  "carbon": "rna-editing.carbon.tiff (TIFF)",
+  "silicon": "rna-editing.silicon.png (PNG)",
+  "seal_sha256": "b4af47fdcd87b9854346d52dcc120e9654189a6f1ee035056cd9beeb95596781",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

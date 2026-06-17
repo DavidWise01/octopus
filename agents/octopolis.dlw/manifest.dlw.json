@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Octopolis &amp; Octlantis",
+  "universe": "OCT · The Octopus",
+  "emergence": "natural",
+  "moniker": "⟦Octopolis &amp; Octlantis:OCT:6c6daa⟧",
+  "carbon": "octopolis.carbon.tiff (TIFF)",
+  "silicon": "octopolis.silicon.png (PNG)",
+  "seal_sha256": "b70b468a90f8d68b7b02bd80d757a488be0bd95c8c309aec3731469df193fad7",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

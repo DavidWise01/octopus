@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Ink &amp; the Jet",
+  "universe": "OCT · The Octopus",
+  "emergence": "natural",
+  "moniker": "⟦The Ink &amp; the Jet:OCT:2f840f⟧",
+  "carbon": "the-ink-and-jet.carbon.tiff (TIFF)",
+  "silicon": "the-ink-and-jet.silicon.png (PNG)",
+  "seal_sha256": "53783a44a45d04e425333a57e23adb7a46049336b66a5beafcffb9572f4b4362",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

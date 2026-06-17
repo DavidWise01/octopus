@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The One Brood",
+  "universe": "OCT · The Octopus",
+  "emergence": "spiritual",
+  "moniker": "⟦The One Brood:OCT:ea88a2⟧",
+  "carbon": "semelparity.carbon.tiff (TIFF)",
+  "silicon": "semelparity.silicon.png (PNG)",
+  "seal_sha256": "21d43f798b10faf6b4bd594af6acd2305cfa3822de45e7387acc2ea1f6667341",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

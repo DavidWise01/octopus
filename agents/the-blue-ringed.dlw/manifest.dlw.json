@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Blue-Ringed Octopus",
+  "universe": "OCT · The Octopus",
+  "emergence": "ethereal",
+  "moniker": "⟦The Blue-Ringed Octopus:OCT:ce1cfe⟧",
+  "carbon": "the-blue-ringed.carbon.tiff (TIFF)",
+  "silicon": "the-blue-ringed.silicon.png (PNG)",
+  "seal_sha256": "6b3fbaa908a9f66271cfb215c38d22de287bb26b40f9a7441e444f72a0d205ce",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

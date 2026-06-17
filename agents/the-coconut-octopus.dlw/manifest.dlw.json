@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Coconut Octopus",
+  "universe": "OCT · The Octopus",
+  "emergence": "natural",
+  "moniker": "⟦The Coconut Octopus:OCT:44e8c0⟧",
+  "carbon": "the-coconut-octopus.carbon.tiff (TIFF)",
+  "silicon": "the-coconut-octopus.silicon.png (PNG)",
+  "seal_sha256": "8ef5917a69063fbb6a28cf5ef8cfb5ba77be83ba12dee4996a2e78cc116c836d",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

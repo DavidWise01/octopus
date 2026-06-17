@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Three Hearts",
+  "universe": "OCT · The Octopus",
+  "emergence": "natural",
+  "moniker": "⟦The Three Hearts:OCT:f59dca⟧",
+  "carbon": "the-three-hearts.carbon.tiff (TIFF)",
+  "silicon": "the-three-hearts.silicon.png (PNG)",
+  "seal_sha256": "875cc5d0a04926f913f043dee0e83f4a5ae184703c08c489c1c598b2eab7a159",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

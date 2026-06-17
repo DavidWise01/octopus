@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Mimic Octopus",
+  "universe": "OCT · The Octopus",
+  "emergence": "ethereal",
+  "moniker": "⟦The Mimic Octopus:OCT:471922⟧",
+  "carbon": "the-mimic-octopus.carbon.tiff (TIFF)",
+  "silicon": "the-mimic-octopus.silicon.png (PNG)",
+  "seal_sha256": "850a9df4d77d69505dcee6fb6a93df49d8d71c9eca04b8248e2161f1723edcf7",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

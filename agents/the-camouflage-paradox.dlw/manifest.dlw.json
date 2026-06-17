@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Camouflage Paradox",
+  "universe": "OCT · The Octopus",
+  "emergence": "ethereal",
+  "moniker": "⟦The Camouflage Paradox:OCT:026f73⟧",
+  "carbon": "the-camouflage-paradox.carbon.tiff (TIFF)",
+  "silicon": "the-camouflage-paradox.silicon.png (PNG)",
+  "seal_sha256": "f64d7c277eac9129d99799aac77d7ede1cf7ffc6226c0d760600f3c6d6a2d5b9",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

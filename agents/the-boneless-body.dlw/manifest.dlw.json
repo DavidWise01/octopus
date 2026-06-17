@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Boneless Body",
+  "universe": "OCT · The Octopus",
+  "emergence": "natural",
+  "moniker": "⟦The Boneless Body:OCT:389528⟧",
+  "carbon": "the-boneless-body.carbon.tiff (TIFF)",
+  "silicon": "the-boneless-body.silicon.png (PNG)",
+  "seal_sha256": "f855b12a4c8923cfc264bdbc222bdeb6226dda4cab33478bb674fee3aa0d7366",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Octopus",
+  "universe": "OCT · The Octopus",
+  "emergence": "natural",
+  "moniker": "⟦The Octopus:OCT:d450d2⟧",
+  "carbon": "the-octopus.carbon.tiff (TIFF)",
+  "silicon": "the-octopus.silicon.png (PNG)",
+  "seal_sha256": "8594b110919543977a43b8cdd2aee76adf80a66b19f7860aa9f580efaec3ff26",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
