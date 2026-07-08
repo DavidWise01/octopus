@@ -4,6 +4,6 @@ slug  : octopus
 seal  : 97ec022e0bac4e7fb9bd64220dc06b695c800f18b87c44ed8408c37e7e05db29
 prev  : f5e668a8378cf19d80487044a89717aea5aac46b332f51a2339ba7e3e028ea88
 link  : 9b89be4e2a4e86a7725bf46203c860051c66f2cce6811daa9742e56142a639cb
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
